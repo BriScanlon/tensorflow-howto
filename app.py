@@ -1,3 +1,5 @@
+# This can be used with an existing MongoDB database.
+# Copyright (c) 2024 Brian Scanlon.
 
 # Import required libraries
 from fastapi import FastAPI
