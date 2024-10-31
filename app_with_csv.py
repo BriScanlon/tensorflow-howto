@@ -1,3 +1,5 @@
+# This can be used with the training data provided in the csv.
+# Copyright (c) 2024 Brian Scanlon.
 
 # Import required libraries
 from fastapi import FastAPI
