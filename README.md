@@ -18,7 +18,7 @@ This project is a recommendation system built using collaborative filtering and 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/recommendation-system.git
+   git clone https://github.com/BriScanlon/tensorflow-howto.git
    cd recommendation-system
    ```
 
