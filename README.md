@@ -19,7 +19,7 @@ This project is a recommendation system built using collaborative filtering and 
 
    ```bash
    git clone https://github.com/BriScanlon/tensorflow-howto.git
-   cd recommendation-system
+   cd tensorflow-howto
    ```
 
 2. Install the required packages:
